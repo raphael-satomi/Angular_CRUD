@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "MackBook Pro 2027 16",
+      "price": 19.999
+    },
+    {
+      "id": 3,
+      "name": "MackBook Pro 2030 1",
+      "price": 27.499
+    },
+    {
+      "name": "Lapis Lazuli",
+      "price": "00.01",
+      "id": 6
+    },
+    {
+      "name": "Garrafa",
+      "price": "332",
+      "id": 7
+    }
+  ]
+}
